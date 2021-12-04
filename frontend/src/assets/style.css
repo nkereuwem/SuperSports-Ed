@@ -151,7 +151,7 @@ img {
 
 /* background section */
 .background img {
-  width: 121%;
+  width: 100%;
 }
 .background .orange {
   position: absolute;
@@ -450,7 +450,7 @@ p1 {
     top: 92%;
   }
   nav {
-    width: 121%;
+    width: 100%;
   }
 }
 
