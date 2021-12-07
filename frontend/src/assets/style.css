@@ -36,7 +36,6 @@ main .header01 {
 
 .bottom {
   margin: 0%;
-  border-top: 1px solid #c2e8c230;
   background-color: #c2e8c230;
 }
 .bottom .footer {
@@ -933,7 +932,7 @@ nav.bar .signup a {
 .details form button {
   color: #ffffff;
   border-style: none;
-  padding: 4% 4%;
+  padding: 1% 4%;
   font-size: 15px;
   background-color: #ff7f00;
   border-radius: 5px;
@@ -986,13 +985,12 @@ tr .total td {
 @media only screen and (max-width: 1024px) {
   .top {
     margin-top: 1px;
-    width: 121%;
+    width: 100%;
   }
 }
 @media only screen and (max-width: 800px) {
   .top {
     width: 100%;
-    top: 18px;
   }
 }
 @media only screen and (max-width: 540px) {
