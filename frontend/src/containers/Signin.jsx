@@ -57,11 +57,11 @@ const Signin = () => {
               onChange={inputPassword}
             />
             <br /> <br />
-            <button onClick={signInButton}>Join Us</button>
+            <button onClick={signInButton}>Sign In</button>
             <br />
             <br />
             <p>
-              Already a Member? <a href="/signup">Join Us</a>
+              New Member <a href="/signup">Sign Up</a>
             </p>
           </div>
         </div>

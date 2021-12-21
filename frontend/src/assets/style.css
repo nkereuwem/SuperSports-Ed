@@ -62,7 +62,7 @@ main .header01 {
 
 .bottom .footer button {
   margin-right: 5%;
-  background-color: #f79604;
+  background-color: #ff7f00;
   color: white;
   font-size: 22px;
   width: 100%;
@@ -86,7 +86,7 @@ span.minus {
   margin-top: 96px;
   width: 15%;
   border-radius: 3px;
-  background-color: #f79604;
+  background-color: #ff7f00;
   color: #fff;
 }
 
@@ -216,7 +216,7 @@ ul.food-items li .info .info-bottom .add {
   cursor: pointer;
   height: 30px;
   margin-top: 96px;
-  background-color: #f79604;
+  background-color: #ff7f00;
   width: 15%;
   border-radius: 7px;
   color: #fff;
@@ -806,7 +806,7 @@ Sign in Page
 }
 .popup01 .popup-input01 button {
   width: 73%;
-  background-color: #f79604;
+  background-color: #ff7f00;
   color: white;
   font-size: 15px;
   border: 0;
@@ -1044,7 +1044,7 @@ Thank you page
 .main01 .top p {
   color: #fff;
   position: absolute;
-  left: 28%;
+  left: 33%;
   top: 16%;
   font-size: 30px;
   font-family: Roboto;

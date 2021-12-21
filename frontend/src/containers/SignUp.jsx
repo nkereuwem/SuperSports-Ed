@@ -71,7 +71,7 @@ const SignUp = () => {
             <br />
             <br />
             <p>
-              Already a Member? <a href="/signin">sign in</a>
+              New Member <a href="/signin">Sign In</a>
             </p>
           </div>
         </div>
